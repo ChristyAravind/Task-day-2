@@ -34,7 +34,7 @@ Nodejs is used in server-side development.
 
 Some of the Nodejs modules are Lodash, express etc. These modules are to be imported from npm.  
 
-Nodejs is written in C, C++ and Javasc. 
+Nodejs is written in C, C++ and Javascript. 
 
   
 
